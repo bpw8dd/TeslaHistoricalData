@@ -20,7 +20,7 @@ try:
             host="localhost", 
             dbname="postgres",
             user="postgres", 
-            password="Bathtub615")
+            password="*******")
     
     table_exists = True
     data_inserted = True
